@@ -1,0 +1,2 @@
+- [AZ-900 Cheatsheet](https://marczak.io/az-900/)
+- [AZ-900 Study Guide](https://github.com/AzureMentor/Azure-AZ-900-Study-Guide)
