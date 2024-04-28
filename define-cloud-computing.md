@@ -1,0 +1,5 @@
+- Cloud computing delivers various computing services over the internet, offering benefits such as cost optimization, speed, global scale, productivity, performance, reliability, and security.
+- There are three types of cloud deployment: public, private, and hybrid, each catering to different organizational needs.
+- Cloud computing services fall into four categories: infrastructure as a service (IaaS), platform as a service (PaaS), software as a service (SaaS), and serverless computing, each serving specific purposes in application development and delivery.
+- Cloud computing enables a wide range of uses, including creating cloud-native applications, storing and recovering data, streaming audio and video, delivering software on demand, testing and building applications, analyzing data, and embedding intelligence.
+- Microsoft is a leading global provider of cloud computing services, offering Microsoft Azure as a prominent cloud platform for businesses of all sizes.
